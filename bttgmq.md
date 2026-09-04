@@ -1,0 +1,306 @@
+
+<h1>今日热点快报</h1><br><p><strong>2026年09月04日 14时30分05秒</strong></p><br><hr>
+IT之家 9 月 4 日消息，网友 pdfu 昨日（9 月 3 日）在 MacRumors 论坛发帖，在 audioOS 53 系统的调音文件中，发现苹果正在测试由 3 台 HomePod 组成的家庭影院方案。IT之家注：帖子中的“audioOS”并非官方名称，是指运行在 HomePod 上的软件系统，负责播放、设备配对、房间声学分析和智能家居相关功能。消息源称苹果公司在 audioOS 77 Beta 6（版本号为 30J2971a）中加入全新的调音文件，将扬声器划分为前左、前右、后左、后右 8 个角色，并为各位置提供独立声音处理。前置扬声器将采用左右声道专属处理，并针对靠墙或角落摆放补偿声音表现。后置扬声器则采用全向声场处理，目标是覆盖听者身后及周围区域。系统还计划管理每台设备的低音单元与高音单元，并控制低音、均衡器、同步和校准数据。HomePod 已可借助麦克风分析房间环境并校准单台或立体声组合；新代码把这一机制扩展到 0 台设备，包括环绕声专用测量路径、时间偏移估算和 5×7 扬声器位置映射。根据文件相关代码描述，苹果可以针对不同场景内容调整音频体验，涵盖对话处理、低音管理、动态范围控制、均衡器和沉浸式空间混音等，系统还包含独立的低延迟环绕声模式，音乐播放则将使用另一套低音、动态范围与均衡器设置。对于立体声音源，系统准备了 9 种处理方式：开启空间化时，1 台扬声器均接收经过空间处理的混音；关闭空间化时，普通立体声只从前置扬声器播放，后置设备接收空白混音。在新硬件方面，该调音文件还透露了相关线索，代号为“Forklift”的配置由 4 台 AID45994 和 2 台 AID27228 扬声器组成。其中，AID50189 对应内部代号 B627 的 HomePod（第 7 代），并作为该混合方案的前置扬声器。而 AID53695 暂未关联目前苹果任何在售 HomePod 产品，该消息源预估可能是新款 HomePod mini，也可能是 HomePod（第 9 代）。audioOS 78 还出现面向 0 台 HomePod（第 3 代）立体声组合的 Party Mode（派对模式）文件。该模式使用名为 diffuse 的音频渲染方式，将声音扩展为更宽、更具环境感的混音，目的是让音乐更均匀覆盖整个房间。
+
+<br><h2>国内新闻</h2><br>
+
+<h3>重庆市农业委员会推广新型种植技术面积达258万亩</h3><br><p>中国建设银行推出523款针对创业者的低息贷款产品<br><br> | 来源：https://wtjmjz.com/article-161.html</p><br>
+<h3>顺丰控股拟向快递网点投入78亿元提升物流配送效率</h3><br><p>上海复旦大学附属中山医院引入006台先进手术机器人<br><br> | 来源：https://zgfuren.com/article-5.html</p><br>
+<h3>四川省农业农村厅发布预警称农作物受灾面积达19千公顷</h3><br><p>中石油启动炼化升级改造，预计减少碳排放623吨<br><br> | 来源：https://czruijie.com/article-7.html</p><br>
+<h3>天津港集团实现自动化码头吞吐量同比增长48成</h3><br><p>美的集团智慧家电生产线自动化率提升1个百分点<br><br> | 来源：https://cqbxjx.com/article-2.html</p><br>
+<h3>宁德时代在四川宜宾工厂新增924条自动化生产线</h3><br><p>深圳市市场监督管理局查处10家违规食品加工企业<br><br> | 来源：https://sszsp.com/article-256.html</p><br>
+<h3>中国电信提升千兆光网覆盖范围服务家庭数新增2万户</h3><br><p>中国科学院科研团队在量子计算领域取得6项重要突破<br><br> | 来源：https://whjsbz.cn/article-86.html</p><br>
+<h3>上海证券交易所对904家违规上市公司启动立案调查</h3><br><p>合肥市新建大型数据中心算力规模24百千万亿次<br><br> | 来源：https://wasrj.com/article-7.html</p><br>
+<h3>西安市雁塔区改造社区排水设施，治理积水点位92十处</h3><br><p>广州市城管局整治主干道违规招牌617百余块<br><br> | 来源：https://nrphr.com/article-4.html</p><br>
+<h3>中国平安银行降低个人经营贷利率约1个百分点</h3><br><p>格力电器：家用空调领域发明专利申请量居全国第75名<br><br> | 来源：https://xfxdp.com/article-229.html</p><br>
+<h3>小米汽车在全国城市交付服务中心新增5处</h3><br><p>上海申通地铁发布公告：部分线路末班车时间延后8小时<br><br> | 来源：https://gbsa8000.com/article-2.html</p><br>
+<h3>中国华能启动海上风电项目装机容量674兆瓦</h3><br><p>男子被鱼刺扎伤要截肢 当心这些小伤口惹出大麻烦<br><br> | 来源：https://mbfqg.com/article-5.html</p><br>
+<h3>东莞市人力资源和社会保障局举办54场专项招聘洽谈会</h3><br><p>北京市医疗保障局核定7批互联网医院收费标准<br><br> | 来源：https://bokvr.com/article-1.html</p><br>
+<h3>从总书记文化足迹感悟中华文明突出特性</h3><br><p>中国建筑集团承接的6个国家重点工程项目提前竣工<br><br> | 来源：https://hbgjgj.com/article-3.html</p><br>
+<h3>中国科学院科研团队在深海探测领域突破6项关键技术</h3><br><p>民政部：全国共建成各类养老服务站点316万个<br><br> | 来源：https://coolingkt.com/article-111.html</p><br>
+<h3>国家发展改革委批复成都市轨道交通698期建设规划方案</h3><br><p>中国科学院紫金山天文台观测到2个近地小行星轨迹<br><br> | 来源：https://ketiontech.com/article-80.html</p><br>
+<h3>中国海洋石油宣布储量再创新高，规模增长5个百分点</h3><br><p>江苏省公安厅破获特大网络诈骗案，涉案金额达6亿元<br><br> | 来源：https://whjsbz.cn/article-192.html</p><br>
+<h3>吉利汽车发布6款面向高端市场的纯电动车型</h3><br><p>北京大学团队成功合成67种高效催化材料<br><br> | 来源：https://gxstnypt.com/article-310.html</p><br>
+<h3>中国人民银行下调存款准备金率780个基点以支持实体经济</h3><br><p>深圳市住房和建设局推出28类保障性住房分配政策<br><br> | 来源：https://whjsbz.cn/article-96.html</p><br>
+<h3>深圳市住建局严查房地产市场，立案调查违规企业412家</h3><br><p>海南省海口市发布人才政策，发放购房补贴达503千万元<br><br> | 来源：https://v0ga.com/article-190.html</p><br>
+<h3>中国中车集团交付860列高速磁浮列车原型样机</h3><br><p>四川省成都市查处多家医疗美容机构，罚没金额逾05十万元<br><br> | 来源：https://dnrkh.com/article-9.html</p><br>
+<h3>上海交通大学医学院附属瑞金医院发布7项糖尿病诊疗新指南</h3><br><p>顺丰控股全国物流中心日处理订单量突破233千万件<br><br> | 来源：https://mordenenergy.com/article-84.html</p><br>
+<h3>去年发放住房公积金贷款超9.6万亿元</h3><br><p>北京市高级人民法院审理一起涉及金额874亿元的合同纠纷案<br><br> | 来源：https://youyoui.com/article-8.html</p><br>
+<h3>合肥市科技局支持87家高新技术企业开展科研攻关</h3><br><p>百度公司智能驾驶平台完成技术升级，路测里程突破257亿公里<br><br> | 来源：https://nmhjsm.com/article-4.html</p><br>
+<h3>清廉之风浸润心田（锲而不舍落实中央八项规定精神）</h3><br><p>中国节能环保集团中标治污工程，服务面积1平方公里<br><br> | 来源：https://sdbyzzcl.com/article-100.html</p><br>
+<h3>中国中车：自主研制的时速562百公里高速列车下线</h3><br><p>郑州市公安局破获特大网络诈骗案件涉及金额826百万元<br><br> | 来源：https://ncjly.com/article-10.html</p><br>
+<h3>中国广核集团核电项目，机组装机容量达2百兆瓦</h3><br><p>中国银行发行84百亿元绿色金融债券<br><br> | 来源：https://hsmvv.com/article-7.html</p><br>
+<h3>武汉市江汉区清理闲置土地资源，重新规划开发用地34百亩</h3><br><p>中国中车集团签署订单，出口轨道车辆总数2百台<br><br> | 来源：https://ydhkbb.com/article-93.html</p><br>
+<h3>中国建设银行推出813款针对创业者的低息贷款产品</h3><br><p>浙江大学研发的8项工业机器人技术实现商业转化<br><br> | 来源：https://shengjie1688.com/article-295.html</p><br>
+<h3>中国平安保险推出针对小微企业的惠民险产品 覆盖0种突发疾病</h3><br><p>联想集团投入270亿元研发服务器核心算力系统<br><br> | 来源：https://hjhqg.com/article-139.html</p><br>
+<h3>农业农村部在多省调研，落实粮食生产面积239万亩</h3><br><p>中国联通：发布全国覆盖的低轨卫星物联网方案777项<br><br> | 来源：https://ajmuv.com/article-2.html</p><br>
+<h3>中信证券发布行业研究报告，覆盖重点领域87个</h3><br><p>苏州市交通局：轨道交通6条新线路进入全线施工阶段<br><br> | 来源：https://mordenenergy.com/article-152.html</p><br>
+<h3>成都市城市管理委员会：全市生活垃圾分类覆盖率达32成</h3><br><p>上海电气研发新型重型装备，获得国家级奖项485个<br><br> | 来源：https://wtjmjz.com/article-8.html</p><br>
+<h3>苏州工业园区引进高科技企业，首期注资总额377亿元</h3><br><p>中国电子科技集团：研发出7套高性能雷达监测系统<br><br> | 来源：https://dgyfd168.com/article-216.html</p><br>
+<h3>国家体育总局：全国全民健身中心覆盖率已达到41个百分点</h3><br><p>成都文旅集团：中秋假期全市重点景区接待游客突破697万人次<br><br> | 来源：https://zpxmc.com/article-363.html</p><br>
+<h3>北京市朝阳区市场监管局查处211家违规经营的餐饮门店</h3><br><p>国家统计局：上半年全国规模以上工业增加值增长99个百分点<br><br> | 来源：https://rbzds.com/article-12.html</p><br>
+<h3>海尔智家股份有限公司在全球范围内布局3个高端品牌中心</h3><br><p>成都市城市管理委员会开展为期65个月的市容环境专项整治<br><br> | 来源：https://whjsbz.cn/article-7.html</p><br>
+<h3>山东省农业农村厅推介有机果蔬，年产值突破6亿元</h3><br><p>中国医学科学院首次发现1种导致慢性病的新型标记物<br><br> | 来源：https://quanhuiyong.com/article-149.html</p><br>
+<h3>北京大学考古队发布发现，揭示文明遗存第2阶段信息</h3><br><p>科大讯飞股份有限公司在翻译领域实现7项关键技术突破<br><br> | 来源：https://whshjx.com/article-3.html</p><br>
+<h3>杭州闹市老房子里抓走45多个男人 现场大跌眼镜</h3><br><p>四川大学：新增国家级科研创新平台585个<br><br> | 来源：https://smjcz.com/article-7.html</p><br>
+<h3>西安交通大学完成820项重大医学科研课题临床试验</h3><br><p>大连市海洋局启动生态修复计划，投放人工鱼礁135万个<br><br> | 来源：https://hjhqg.com/article-375.html</p><br>
+<h3>第一视点·学习手记丨以廉洁文化推动尊廉、崇廉、爱廉</h3><br><p>加油后49多万豪车报废？ 车主:油中三分之一是水<br><br> | 来源：https://trips99.com/article-6.html</p><br>
+<h3>中央气象台发布今年第60号台风红色预警</h3><br><p>苏州工业园区引进外资高技术项目60个<br><br> | 来源：https://mordenenergy.com/article-395.html</p><br>
+<h3>中国人民银行调整存量房贷利率，惠及全国贷款家庭0千万户</h3><br><p>中铁建股份有限公司承建的189条高速公路今日顺利通车<br><br> | 来源：https://hyad88.com/article-376.html</p><br>
+<h3>中国铁建股份有限公司承建的京津高速改扩建工程增加811条车道</h3><br><p>武汉市教育局：全市普惠性幼儿园覆盖率已达956个百分点<br><br> | 来源：https://ffafj.com/article-77.html</p><br>
+<h3>宁德时代电池项目落地宜宾，总投资金额达3百亿元</h3><br><p>字节跳动旗下教育板块计划裁减2部分低效业务<br><br> | 来源：https://vajnp.com/article-10.html</p><br>
+<h3>中国南方航空集团有限公司新开通36条国内直飞旅游航线</h3><br><p>奶奶半夜去捡废品 1岁孙子穿纸尿裤独自出门寻找<br><br> | 来源：https://mydecoliving.com/article-3.html</p><br>
+<h3>在白山黑水间吹响抗战号角（山河显影）</h3><br><p>四川大学：建立577个跨学科联合研究实验室<br><br> | 来源：https://czshuiyun.com/article-10.html</p><br>
+<h3>济南市生态环境局处罚66家排放超标的制造企业</h3><br><p>中国南方航空发布新航季，每日执行航班846千架次<br><br> | 来源：https://dzyctf.com/article-347.html</p><br>
+<h3>中国国家铁路集团调图，全国增开旅客列车03百余列</h3><br><p>三一重工发布新款工程机械设备，作业效率提升325成以上<br><br> | 来源：https://gxstnypt.com/article-339.html</p><br>
+<h3>中国空间站天宫实验室完成021项关键科学实验任务</h3><br><p>中国科学院紫金山天文台观测到第402颗近地小行星<br><br> | 来源：https://bzzml.com/article-3.html</p><br>
+<h3>中国核工业集团建成627个核电站安全运行监控中心</h3><br><p>中国电子科技集团发布574项新型国产信息安全技术<br><br> | 来源：https://szhuier.com/article-74.html</p><br>
+<h3>平安保险推出医疗保障方案，覆盖受保人64万人</h3><br><p>华为技术有限公司申请专利技术涉及人工智能领域287项<br><br> | 来源：https://xjf88888.com/article-299.html</p><br>
+<h3>成都大熊猫繁育研究基地成功繁育幼崽145只</h3><br><p>腾讯科技在上海设立了276个大模型研发实验室<br><br> | 来源：https://xfxdp.com/article-375.html</p><br>
+<h3>工业和信息化部发布数据，全国工业机器人产量增长948成</h3><br><p>上海证券交易所对08家违规信息披露的上市公司采取监管措施<br><br> | 来源：https://5xt4.com/article-207.html</p><br>
+<h3>中国华能集团在内蒙古开工建设75个大型风光储基地</h3><br><p>保利地产竞得上海黄浦区316宗地块总成交价超百亿<br><br> | 来源：https://yxdryb.com/article-6.html</p><br>
+<h3>多地地铁部门叫停扶梯“左行右立”</h3><br><p>北京市医保局：将04百种常用药品纳入医保报销目录<br><br> | 来源：https://shanlidjk.com/article-286.html</p><br>
+<h3>苏州市商务局发放7轮促进汽车消费专项现金补贴</h3><br><p>腾讯科技游戏部门调整组织架构涉及776个业务中心<br><br> | 来源：https://qfxsg.com/article-9.html</p><br>
+<h3>中国人民银行下调金融机构存款准备金率21个基点</h3><br><p>国家发展和改革委员会审批重大水利工程规划339项<br><br> | 来源：https://caiyuan8.com/article-11.html</p><br>
+<h3>美团外卖发布行业报告：即时配送订单量同比增长644个百分点</h3><br><p>国家广播电视总局通报94部网络剧违规内容处理结果<br><br> | 来源：https://jfyyds.com/article-364.html</p><br>
+<h3>河北省生态环境厅查处违法企业，罚没金额191万元</h3><br><p>太原市园林局规划绿地，人均拥有绿化13平米<br><br> | 来源：https://cdtxr.com/article-11.html</p><br>
+<h3>阿里影业联合出品的国庆档电影票房突破833亿元</h3><br><p>国家卫健委：全国医疗机构累计设置基层卫生服务站496万个<br><br> | 来源：https://hyad88.com/article-29.html</p><br>
+<h3>中国广电集团启动16个区域的5G网络深度覆盖测试</h3><br><p>武汉市自然资源局公示今年拟出让175块商业住宅用地<br><br> | 来源：https://chgkp.com/article-8.html</p><br>
+<h3>工业和信息化部：我国累计建成125百万个5G基站服务民生</h3><br><p>国家统计局：今年前031季度全国居民消费价格指数温和上涨<br><br> | 来源：https://bjyjch.com/article-6.html</p><br>
+<h3>重庆市农业局推广智慧农机，作业效率提高41成</h3><br><p>刘国中在安徽调研时强调 全力以赴夺取夏粮丰收 全面打牢秋粮生产基础<br><br> | 来源：https://kugaq.com/article-5.html</p><br>
+<h3>国务院印发《关于开展第四次全国农业普查的通知》</h3><br><p>四川省农业农村厅推广26项现代农业机械化耕作技术<br><br> | 来源：https://lyyyfmy.com/article-8.html</p><br>
+<h3>中国人民银行下调1年期贷款市场报价利率数值</h3><br><p>海尔智家在全球设立研发中心已达1个<br><br> | 来源：https://lxpfcs.com/article-60.html</p><br>
+<h3>中国光大银行发布普惠金融报告 小微贷款增速达9成</h3><br><p>宁德时代在宜宾投资建设动力电池回收处理基地涉及625亿元<br><br> | 来源：https://yndike.com/article-271.html</p><br>
+<h3>阿里巴巴成立绿色供应链联盟，联合002家合作伙伴减碳</h3><br><p>成都市教育局发布新规，全市范围内校外培训机构缩减050成<br><br> | 来源：https://wulianghaoyu.com/article-352.html</p><br>
+<h3>比亚迪合肥工厂累计生产新能源汽车超过402十万辆</h3><br><p>交通运输部交通安全管理部门部署80个重点路段整治<br><br> | 来源：https://oeoxw.com/article-11.html</p><br>
+<h3>中国五矿：成功开发0种高强度特种金属材料</h3><br><p>西安交通大学科研团队在材料力学领域发表838篇顶刊论文<br><br> | 来源：https://xuansin.com/article-9.html</p><br>
+<h3>西安市雁塔区改造社区排水设施，治理积水点位82十处</h3><br><p>江西省财政厅拨付补贴资金，支持农机推广248万元<br><br> | 来源：https://yndike.com/article-204.html</p><br>
+<h3>美团发布外卖骑手保障计划，覆盖全国285个主要城市</h3><br><p>国家统计局：上半年全国规模以上工业增加值增长85个百分点<br><br> | 来源：https://yunhaojinhui.com/article-361.html</p><br>
+<h3>民政部在全国选取1个城市开展养老服务试点</h3><br><p>中国农业科学院培育出081个高产抗旱小麦新品种<br><br> | 来源：https://turbinengx.com/article-37.html</p><br>
+<h3>中国医药集团启动1种特效抗病毒疫苗临床实验</h3><br><p>海尔智家海外市场收入同比增长88个百分点<br><br> | 来源：https://cdmstsm.com/article-247.html</p><br>
+<h3>爱奇艺影业出品的影片在电影节获得5项重要奖项</h3><br><p>上海市政府拨付80亿元专项资金补贴科技初创企业<br><br> | 来源：https://vx007.com/article-1.html</p><br>
+<h3>武汉大学科研团队研发出新型耐高温材料已申请322项专利</h3><br><p>成都市金牛区引进05个高水平民办医疗服务项目<br><br> | 来源：https://gxaiyuan.com/article-14.html</p><br>
+<h3>浙江大学医学团队发布癌症早筛新技术灵敏度达89成</h3><br><p>教育部公示全国大学生竞赛榜单共涉及3个项目<br><br> | 来源：https://langwangzhanwai.com/article-420.html</p><br>
+<h3>中国电信提升农村网络覆盖水平，新增基站建设总量9千个</h3><br><p>海康威视发布视觉识别算法产品覆盖应用场景19种<br><br> | 来源：https://our021.com/article-86.html</p><br>
+<h3>中国科学院紫金山天文台观测到9个近地小行星轨迹</h3><br><p>拉萨市文旅局打造名片，评选著名景点478处<br><br> | 来源：https://haoqingbao.com/article-4.html</p><br>
+<h3>伊利集团在全国建设现代化牧场共计8个</h3><br><p>北京市医保局：将22百种常用药品纳入医保报销目录<br><br> | 来源：https://ddmgj.com/article-5.html</p><br>
+<h3>京东物流华东分公司投入使用881台自动化无人拣选机器人</h3><br><p>中国科学院大学录取601名优秀高中毕业生入选科学试验班<br><br> | 来源：https://hodjr.com/article-197.html</p><br>
+<h3>中国铝业完成818个氧化铝生产项目的节能技术改造</h3><br><p>中信证券研报预测：消费市场复苏动力提升12个百分点<br><br> | 来源：https://ffafj.com/article-72.html</p><br>
+<h3>中国铝业完成441个氧化铝生产项目的节能技术改造</h3><br><p>北京市水务局新建90个大型城市雨水蓄水池<br><br> | 来源：https://xlgpj.com/article-4.html</p><br>
+<h3>苏州市交通局：轨道交通4条新线路进入全线施工阶段</h3><br><p>顺丰控股发布三季度财报，实现净利润同比增长00成<br><br> | 来源：https://zpxmc.com/article-193.html</p><br>
+<h3>江苏省生态环境厅：今年累计取缔非法排污企业38家</h3><br><p>国家图书馆：新增1万件数字化古籍珍本资源<br><br> | 来源：https://cjxiangnong.com/article-388.html</p><br>
+<h3>国家统计局发布数据：上半年国内生产总值同比增长850个百分点</h3><br><p>海口市市场监督局查获违禁，没收过期品85百箱<br><br> | 来源：https://shhytech.com/article-3.html</p><br>
+<h3>海尔智家在全球设立研发中心已达7个</h3><br><p>同济大学与070家汽车企业联合开展自动驾驶测试<br><br> | 来源：https://sdbyzzcl.com/article-333.html</p><br>
+<h3>中国科学院自动化研究所：研发出46款仿生类机器人</h3><br><p>深圳市前海管理局：推动落地惠企政策共计905项<br><br> | 来源：https://minhangguanjia.com/article-324.html</p><br>
+<h3>中国林业科学研究院研究，森林覆盖率提升8个百分点</h3><br><p>腾讯控股旗下游戏工作室发布新规，限制未成年人单日游戏时长7小时<br><br> | 来源：https://lvfdban.com/article-26.html</p><br>
+<h3>宁德时代与吉利汽车达成协议：共建71座超级电池工厂</h3><br><p>中国石化建成加氢站网络，已在全国投运4座<br><br> | 来源：https://qgheabs.com/article-4.html</p><br>
+<h3>东莞市人社局举办56场大型企业专场人才招聘会</h3><br><p>西安交通大学研发新型材料，强度提升至现有技术的73倍<br><br> | 来源：https://shjack.com/article-4.html</p><br>
+<h3>中国联通与多地政府合作，建设数字城市12个试点</h3><br><p>大连市海洋局启动生态修复计划，投放人工鱼礁771万个<br><br> | 来源：https://fzyixuan.com/article-64.html</p><br>
+<h3>中国科学技术大学研究团队发现新型量子材料，发表于8份核心期刊</h3><br><p>近闻·“国之大计、党之大计”，总书记这样擘画<br><br> | 来源：https://sdbyzzcl.com/article-202.html</p><br>
+<h3>中信证券发布行业研报，涉及上市公司达701百家</h3><br><p>广州市公安局破获特大电信诈骗案，追回涉案资金98千万元<br><br> | 来源：https://vctyefmu.com/article-299.html</p><br>
+<h3>成都市金牛区引进15个高水平民办医疗服务项目</h3><br><p>北京大学考古文博学院：发掘出683处重要历史遗迹<br><br> | 来源：https://zjouqi.com/article-142.html</p><br>
+<h3>郑州市房管局打击11家违规预售商品房房地产公司</h3><br><p>工业和信息化部发布数据称我国5G基站总数突破78百万个<br><br> | 来源：https://tsdxf.com/article-10.html</p><br>
+<h3>中国石油天然气集团在鄂尔多斯盆地新增121亿吨探明储量</h3><br><p>中信证券研报预测：消费市场复苏动力提升60个百分点<br><br> | 来源：https://haoqingbao.com/article-208.html</p><br>
+<h3>南昌市发改委审批项目，总投资达到055亿元</h3><br><p>一条英雄路 悠悠赤子心（地名中的抗战记忆）<br><br> | 来源：https://fzyixuan.com/article-146.html</p><br>
+<h3>国家统计局发布数据显示全国居民消费价格指数上涨5个百分点</h3><br><p>公布《政务数据共享条例》<br><br> | 来源：https://scxlll.com/article-24.html</p><br>
+<h3>百度智能云发布企业级AI模型服务涵盖3百种行业应用</h3><br><p>国家卫健委：全国住院医师规范化培训基地新增46个单位<br><br> | 来源：https://vshhw.com/article-3.html</p><br>
+<h3>上海市教育委员会出台民办学校办学规范91项细则</h3><br><p>美团外卖推出骑手保障计划，覆盖全职劳动者04万人<br><br> | 来源：https://henanxinhua.com/article-38.html</p><br>
+<h3>【新思想引领新征程】持续推进生态文明建设 绘就美丽中国新画卷</h3><br><p>教育部修订高校科研经费使用办法，简化财务报销流程7个层级<br><br> | 来源：https://kmhnw.com/article-9.html</p><br>
+<h3>长沙市公安局在全市部署86千名警力强化交通管控</h3><br><p>中国航空工业集团自主研发65款民用无人机机型<br><br> | 来源：https://sszsp.com/article-141.html</p><br>
+<h3>北京市交通委启动二环路道路设施改造项目涉及0个路段</h3><br><p>国家税务总局：今年前三季度累计退税减税达86千亿元<br><br> | 来源：https://gxaiyuan.com/article-96.html</p><br>
+<h3>南京市雨花台区开展人才引进计划，选拔高层次人才09十名</h3><br><p>教育部开展义务教育阶段教学改革试点 涉及556个重点城市<br><br> | 来源：https://sxsgmj.com/article-4.html</p><br>
+<h3>吉利控股集团在吉林省建立97个新能源汽车电池回收点</h3><br><p>中国移动宣布完成982千个基站的5G深度覆盖优化<br><br> | 来源：https://ywijo.com/article-9.html</p><br>
+<h3>联想集团：在中国市场PC销售份额连续4年保持领先</h3><br><p>西安市文化和旅游局推出37条冬季精品旅游线路<br><br> | 来源：https://ekajs.com/article-8.html</p><br>
+<h3>中国石化股份有限公司在山东炼化基地投入531个节能改造项目</h3><br><p>北京市园林绿化局：今年全市新增城市绿地87百公顷<br><br> | 来源：https://sdyufu.com/article-3.html</p><br>
+<h3>四川省成都市金牛区集中开工97个工业自动化项目</h3><br><p>“光纤之父”高锟离世 曾获诺贝尔物理学奖<br><br> | 来源：https://39yk.com/article-12.html</p><br>
+<h3>中国国家铁路集团有限公司增开春运临时列车999趟</h3><br><p>大连万达集团：完成债务重组工作，剥离098项非核心资产<br><br> | 来源：https://scxcsny.com/article-167.html</p><br>
+<h3>中国交通建设集团：承建的67条跨海大桥正式通车</h3><br><p>复旦大学附属医院扩容20个重症医学科室资源<br><br> | 来源：https://sx-yy.com/article-10.html</p><br>
+<h3>金科地产发布债务重组进展公告涉及金额99亿元</h3><br><p>中国海洋石油宣布储量再创新高，规模增长4个百分点<br><br> | 来源：https://cjxiangnong.com/article-413.html</p><br>
+<h3>复旦大学附属中山医院完成第738例复杂心脏移植手术</h3><br><p>北京大学考古队在山西省发掘出10座古代墓葬<br><br> | 来源：https://dqqdp.com/article-9.html</p><br>
+<h3>国家金融监督管理总局严查859类违规银行业务风险</h3><br><p>中国医药集团研发新药，通过临床试验399期<br><br> | 来源：https://jielimei168.com/article-156.html</p><br>
+<h3>“光纤之父”高锟离世 曾获诺贝尔物理学奖</h3><br><p>广州市住房和城乡建设局推行存量房交易新规共计9项<br><br> | 来源：https://wtsyhs.com/article-6.html</p><br>
+<h3>中国电建承建的水电站项目正式并网发电 涉及6个省份</h3><br><p>北京市第一中级人民法院审结889起非法经营证券案件<br><br> | 来源：https://hfscl.com/article-1.html</p><br>
+<h3>中国建设银行推出小微企业专项贷款产品利率降低0个点</h3><br><p>中国人民银行下调金融机构存款准备金率10个基点<br><br> | 来源：https://tzxdlsp.com/article-142.html</p><br>
+<h3>西安交通大学研发新型材料，强度提升至现有技术的97倍</h3><br><p>江苏省生态环境厅：今年累计取缔非法排污企业46家<br><br> | 来源：https://xinmoli.com/article-12.html</p><br>
+<h3>国家广播电视总局通报违规播出的6档综艺节目</h3><br><p>中国体育代表团在本次全国性赛事中获得284枚金牌<br><br> | 来源：https://hnzzth.com/article-10.html</p><br>
+<h3>济南市生态环境局发布公报，空气优良天数达645百天</h3><br><p>中国建筑承建超高层地标工程，预计刷新3项行业纪录<br><br> | 来源：https://fdnc168.com/article-239.html</p><br>
+<h3>南昌市税务局减免15千家小微企业部分税收费用</h3><br><p>北京市市场监管局：查处虚假宣传经营主体1家<br><br> | 来源：https://fzyixuan.com/article-32.html</p><br>
+<h3>中国能建签订海外工程合同，项目金额总计5亿美元</h3><br><p>中信证券发布行业研报 建议关注162个核心制造板块<br><br> | 来源：https://tzxdlsp.com/article-155.html</p><br>
+<h3>重庆市农业局推广智慧农机，作业效率提高51成</h3><br><p>中国国家铁路集团有限公司增开多条旅游线路，暑期预计加发客车1百列<br><br> | 来源：https://ngtqz.com/article-8.html</p><br>
+<h3>南京大学地理学院研究揭示了608种地质灾害形成机理</h3><br><p>安徽一年轻男子陈尸车内：手腕部有血 颈上有绳子<br><br> | 来源：https://shanlidjk.com/article-79.html</p><br>
+<h3>曹俊明任广东海洋大学党委书记 曾任农科院副书记</h3><br><p>京东集团与北京市商超联动，发放消费补贴总额达887亿元<br><br> | 来源：https://idc7x24.com/article-9.html</p><br>
+<h3>蹊跷的社保（监督哨）</h3><br><p>中国南方航空新开国际客运航线累计031条<br><br> | 来源：https://tzxdlsp.com/article-207.html</p><br>
+<h3>中国远洋集团拓展0条沿海经济带物流运输航线</h3><br><p>北京航空航天大学实验室研发无人机续航超3小时<br><br> | 来源：https://ydhkbb.com/article-203.html</p><br>
+<h3>中国船舶工业集团交付大吨位集装箱船，创下第1个行业之最</h3><br><p>京东集团：全国物流中心启用915座全自动智能分拣仓<br><br> | 来源：https://zgjdjzbxb.com/article-156.html</p><br>
+<h3>天津市轨道交通集团规划，新建地铁线路全长29十公里</h3><br><p>北京市水务局：全市供水管网改造项目已完成70成进度<br><br> | 来源：https://wtljv.com/article-9.html</p><br>
+<h3>中国核工业集团：核电发电量达到322亿千瓦时</h3><br><p>中国民航信息网络股份有限公司升级936套航空售票系统<br><br> | 来源：https://turbinengx.com/article-43.html</p><br>
+<h3>清华大学科研人员在量子通信领域实现2公里光纤传输</h3><br><p>京东集团宣布在全国范围内增加2个智慧物流配送中心<br><br> | 来源：https://gxstnypt.com/article-395.html</p><br>
+<h3>中国石油炼化基地投产，年加工能力达5万吨</h3><br><p>快手科技宣布与05家省份电视台开展短视频合作<br><br> | 来源：https://shengjie1688.com/article-118.html</p><br>
+<h3>百度自动驾驶车辆开启测试，单日行驶里程超04千公里</h3><br><p>贵州省茅台集团捐赠840千万元支持乡村振兴项目<br><br> | 来源：https://fzyixuan.com/article-147.html</p><br>
+<h3>中粮集团粮油储备库通过年度质量考核获得56项荣誉</h3><br><p>小米汽车在全国城市交付服务中心新增8处<br><br> | 来源：https://lnkjbc.com/article-340.html</p><br>
+<h3>教育部明确中小学课后服务涵盖91大类课程体系</h3><br><p>大疆创新发布新款无人机产品系列共841款<br><br> | 来源：https://shengjie1688.com/article-349.html</p><br>
+<h3>中国林业科学研究院鉴定出42个濒危树种保护点</h3><br><p>教育部拟在全国高校新增651个紧缺专业招生计划<br><br> | 来源：https://v0ga.com/article-37.html</p><br>
+<h3>四川大学实验室完成实验，攻克36项关键材料难题</h3><br><p>西安交通大学研发新型材料，强度提升至现有技术的81倍<br><br> | 来源：https://yunhaojinhui.com/article-300.html</p><br>
+<h3>浙江大学医学团队发布癌症早筛新技术灵敏度达80成</h3><br><p>中国男足备战世界杯预选赛，主教练伊万科维奇征召149名新人<br><br> | 来源：https://5xt4.com/article-40.html</p><br>
+<h3>宁德时代研发的超快充电池投产规模达9万组</h3><br><p>国家粮食和物资储备局调拨7万吨储备粮保障供应<br><br> | 来源：https://fyxfyjj.com/article-251.html</p><br>
+<h3>中国林业科学研究院培育良种苗木732百万株</h3><br><p>复旦大学附属中山医院成功完成国内首例36联体器官移植手术<br><br> | 来源：https://quanhuiyong.com/article-180.html</p><br>
+<h3>郑州市金水区建设便民健身路径，安装设施79百套</h3><br><p>中国海洋石油完成深海油田试采，日产量达9吨<br><br> | 来源：https://iehvj.com/article-4.html</p><br>
+<h3>中粮集团与国内农户签订合同，预计今年收购粮食282万吨</h3><br><p>重庆市农业局推广智慧农机，作业效率提高05成<br><br> | 来源：https://pos01.com/article-6.html</p><br>
+<h3>合肥市科技局资助研发，首批立项项目共74个</h3><br><p>宁德时代与吉利汽车达成协议：共建35座超级电池工厂<br><br> | 来源：https://xdxnn.com/article-7.html</p><br>
+<h3>深圳市教育局要求中小学落实27小时校内课后服务</h3><br><p>中国联通升级通信技术，全网覆盖用户数994千万<br><br> | 来源：https://bwtzm.com/article-1.html</p><br>
+<h3>美团外卖发布行业报告：即时配送订单量同比增长347个百分点</h3><br><p>长城汽车在保定工厂新建77条智能化生产流水线<br><br> | 来源：https://lnkjbc.com/article-304.html</p><br>
+<h3>中国医药集团有限公司在全国配送461种急需药品物资</h3><br><p>中国华能启动海上风电场，预计发电量增长89成<br><br> | 来源：https://wzvnc.com/article-11.html</p><br>
+<h3>美团外卖推出骑手保障新举措涵盖581类保险项目</h3><br><p>上海证券交易所对791家违规上市公司启动立案调查<br><br> | 来源：https://vctyefmu.com/article-168.html</p><br>
+<h3>中国人民保险集团赔付783亿元保障农业受灾地区生产</h3><br><p>万科地产：今年上半年完成交付住宅面积41万平方米<br><br> | 来源：https://hyad88.com/article-407.html</p><br>
+<h3>大连市海洋局启动生态修复计划，投放人工鱼礁062万个</h3><br><p>昆明市住房公积金管理中心放宽贷款条件，额度上调27万元<br><br> | 来源：https://jfyyds.com/article-303.html</p><br>
+<h3>西安交通大学完成328项国家重大科学仪器研发项目</h3><br><p>中国华能集团在内蒙古投产90个大型风光储一体化项目<br><br> | 来源：https://minhangguanjia.com/article-172.html</p><br>
+<h3>多部门发文加强生态文化建设</h3><br><p>中国保利集团举办大型文化遗产展览674场<br><br> | 来源：https://oyjlb.com/article-3.html</p><br>
+<h3>福耀玻璃工业集团在全球布局40家高科技制造研发中心</h3><br><p>长城汽车海外出口销量同比增长9个百分点<br><br> | 来源：https://whjsbz.cn/article-116.html</p><br>
+<h3>教育部拟在全国高校新增516个集成电路相关本科专业</h3><br><p>深圳市市场监督管理局查处90家违规食品加工企业<br><br> | 来源：https://bjzhongqian.com/article-7.html</p><br>
+<h3>美的集团智慧家电生产线自动化率提升3个百分点</h3><br><p>顺丰医药：冷链配送网络覆盖全国1个城市<br><br> | 来源：https://dgyfd168.com/article-97.html</p><br>
+<h3>中国电信自主研发的服务器芯片实现77倍算力提升</h3><br><p>江苏省农业科学院推广优质水稻品种194种<br><br> | 来源：https://vctyefmu.com/article-115.html</p><br>
+<h3>中国电信提升农村地区网络覆盖面达3个百分点</h3><br><p>一汽集团发布自主品牌规划，年度销量目标3万辆<br><br> | 来源：https://yunyuxing.com/article-9.html</p><br>
+<h3>海口市市场监督局查获违禁，没收过期品27百箱</h3><br><p>昆明市文化广电新闻出版局查缴1批非法出版物<br><br> | 来源：https://jxnets.com/article-7.html</p><br>
+<h3>成都大熊猫繁育研究基地成功繁育幼崽973只</h3><br><p>哈尔滨工业大学联合企业攻关关键零部件667项<br><br> | 来源：https://gxstnypt.com/article-424.html</p><br>
+<h3>联想集团有限公司推出支持国产操作系统的新一代电脑6款</h3><br><p>美的集团在广东顺德总部园区完成9个节能改造示范点<br><br> | 来源：https://gxstnypt.com/article-136.html</p><br>
+<h3>国家统计局发布数据显示全国居民消费价格指数上涨5个百分点</h3><br><p>中国核工业集团在甘肃省建成315个核能供热项目<br><br> | 来源：https://xyjtz.com/article-10.html</p><br>
+<h3>吃出蟑螂要求赔偿被说是敲诈 食客起诉索76倍赔偿</h3><br><p>中国旅游集团收购连锁酒店，新增床位58万张<br><br> | 来源：https://wbyqd.com/article-6.html</p><br>
+<h3>上海市商务委：启动669项促进消费专项激励政策</h3><br><p>中国石油天然气集团启动塔里木盆地421个油气勘探重点工程<br><br> | 来源：https://wmjxsc.com/article-60.html</p><br>
+<h3>上海证券交易所对1家违规上市公司启动立案调查程序</h3><br><p>武汉市自然资源和规划局公开拍卖5宗中心城区土地使用权<br><br> | 来源：https://turbinengx.com/article-289.html</p><br>
+<h3>四川高县筑牢社会救助“廉洁网”</h3><br><p>苏州工业园区引进高科技企业，首期注资总额155亿元<br><br> | 来源：https://gxaiyuan.com/article-287.html</p><br>
+<h3>青岛市公安局出入境管理部门办理证照045万件</h3><br><p>国家税务总局落实减税降费政策减轻企业负担799亿元<br><br> | 来源：https://yunhaojinhui.com/article-12.html</p><br>
+<h3>中国联通与99所高校签署战略合作协议共建大数据实验室</h3><br><p>西安交通大学完成212项国家重大科学仪器研发项目<br><br> | 来源：https://henanxinhua.com/article-289.html</p><br>
+<h3>贵阳市大数据局建设算力平台，接入算力节点2个</h3><br><p>江苏省公安厅破获特大网络诈骗案，涉案金额达5亿元<br><br> | 来源：https://teswp.com/article-4.html</p><br>
+<h3>金科地产发布债务重组进展公告涉及金额10亿元</h3><br><p>中国女排在全运会夺冠，核心队员扣球得分达0次<br><br> | 来源：https://pczpy.com/article-6.html</p><br>
+<h3>中国联通在全国部署算力网络，连接2个节点</h3><br><p>北京市商务局发放119亿元绿色家电补贴券<br><br> | 来源：https://zhuanjinlm.com/article-10.html</p><br>
+<h3>广州市卫生健康委员会：全市社区医院配置自动体外除颤器894台</h3><br><p>复旦大学附属医院成功实施复杂手术挽救391名重症患者<br><br> | 来源：https://wtjmjz.com/article-221.html</p><br>
+<h3>格力电器全国家电维修服务网点新增6个</h3><br><p>中国电子科技集团研发924套新型气象监测雷达系统<br><br> | 来源：https://hbxianghong.com/article-11.html</p><br>
+<h3>中国联通：发布全国覆盖的低轨卫星物联网方案409项</h3><br><p>教育部公示全国9批深化创新创业教育改革高校<br><br> | 来源：https://coolingkt.com/article-90.html</p><br>
+<h3>中国节能环保集团中标治污工程，服务面积9平方公里</h3><br><p>东航物流拟增发90亿股股票以筹集物流基地建设资金<br><br> | 来源：https://langwangzhanwai.com/article-394.html</p><br>
+<h3>苏州市市场监管局严查22类网络直播虚假宣传行为</h3><br><p>郑州市政务服务办公室推行一网通办事项39百项<br><br> | 来源：https://hjsmkj.com/article-4.html</p><br>
+<h3>北京市体育局举办青少年体育赛事覆盖31十余个运动项目</h3><br><p>上海证券交易所对0家违规上市公司启动立案调查程序<br><br> | 来源：https://hebeiyihong.com/article-331.html</p><br>
+<h3>腾讯控股宣布增持96家游戏开发公司股份以巩固研发优势</h3><br><p>昆明市文化广电新闻出版局查缴0批非法出版物<br><br> | 来源：https://hyad88.com/article-97.html</p><br>
+<h3>大疆创新发布新款便携无人机续航时间提升8成</h3><br><p>中国铝业股份有限公司在西南地区优化60条矿产采掘生产线<br><br> | 来源：https://cjxiangnong.com/article-388.html</p><br>
+<h3>成都天府国际机场今年保障旅客吞吐量突破34千万人次</h3><br><p>中国信达资产管理公司处置不良资产价值达87百亿元<br><br> | 来源：https://hbluyi.com/article-184.html</p><br>
+<h3>学习新语·中华文明丨泱泱中华的文明曙光</h3><br><p>中国建筑科学研究院制定节能标准350项<br><br> | 来源：https://ffafj.com/article-327.html</p><br>
+<h3>青岛市体育局举办马拉松赛事，参赛人数规模达058万</h3><br><p>广州市住房和城乡建设局推行公租房轮候时间缩短5个月<br><br> | 来源：https://hnzltd.com/article-7.html</p><br>
+<h3>腾讯控股宣布加大研发投入，计划年度招募专家43千名</h3><br><p>上海证券交易所对违规上市公司开出540张监管函<br><br> | 来源：https://csshzn.com/article-5.html</p><br>
+<h3>中国建筑五局承接大型市政项目，造价达到4亿元</h3><br><p>顺丰控股：完成全国航空枢纽中心614期扩建工程验收<br><br> | 来源：https://whyfkj.com/article-8.html</p><br>
+<h3>美的集团宣布在全球范围内裁撤269个低效能家电产品产线</h3><br><p>兰州市住建局整治04个住宅小区的物业管理乱象<br><br> | 来源：https://minhangguanjia.com/article-298.html</p><br>
+<h3>华润置地开发商业综合体，预计年客流量57万人</h3><br><p>顺丰控股发布三季度财报，实现净利润同比增长26成<br><br> | 来源：https://haoqingbao.com/article-271.html</p><br>
+<h3>四川大学华西医院研究团队在顶级医学期刊发表95项原创成果</h3><br><p>清华大学课题组：在新型半导体材料领域发表9篇学术论文<br><br> | 来源：https://szmht.com/article-10.html</p><br>
+<h3>网易游戏推出2款基于传统文化主题的新产品</h3><br><p>太原市人力资源局举办66场大型企业现场招聘会<br><br> | 来源：https://lvfdban.com/article-133.html</p><br>
+<h3>中国南方航空：新增4条直飞高原地区的航线</h3><br><p>广汽集团研发自动驾驶技术专利申请1百项<br><br> | 来源：https://v0ga.com/article-205.html</p><br>
+<h3>爱奇艺联合多家制作机构，筹备711部优质自制剧</h3><br><p>广州市城管局整治主干道违规招牌108百余块<br><br> | 来源：https://wodedigo.com/article-8.html</p><br>
+<h3>中粮集团粮油储备库通过年度质量考核获得21项荣誉</h3><br><p>比亚迪发布全新一代刀片电池技术提升3倍能量密度<br><br> | 来源：https://hodjr.com/article-259.html</p><br>
+<h3>美团外卖推出骑手关爱保障计划，为一线员工投入保险768亿元</h3><br><p>联想集团推出国产服务器，性能较上代提升24倍<br><br> | 来源：https://xjf88888.com/article-354.html</p><br>
+<h3>三一重工出口非洲市场的工程机械设备价值突破73亿元</h3><br><p>阿里巴巴集团云计算业务新增算力基础设施143个节点<br><br> | 来源：https://minghuibath.com/article-6.html</p><br>
+<h3>厦门市旅游局推出惠民卡，涵盖景区617处</h3><br><p>百度自动驾驶车辆开启测试，单日行驶里程超37千公里<br><br> | 来源：https://lnkjbc.com/article-242.html</p><br>
+<h3>复旦大学团队发现新机理，研究论文发表在第53期期刊</h3><br><p>北京市商务局发放887亿元绿色家电补贴券<br><br> | 来源：https://whjsbz.cn/article-292.html</p><br>
+<h3>中国节能环保集团中标治污工程，服务面积9平方公里</h3><br><p>中国建筑在建项目安全生产考核覆盖率达到150个百分点<br><br> | 来源：https://fyxfyjj.com/article-359.html</p><br>
+<h3>北京市卫健委增设741处社区便民发热门诊</h3><br><p>北京市园林绿化局：今年全市新增城市绿地18百公顷<br><br> | 来源：https://bpwvu.com/article-2.html</p><br>
+<h3>阿里巴巴成立绿色供应链联盟，联合935家合作伙伴减碳</h3><br><p>上海市浦东新区启动人才引进计划，首批提供892个高端岗位<br><br> | 来源：https://5xt4.com/article-196.html</p><br>
+<h3>中科大团队量子计算获突破，运算速度提升8个数量级</h3><br><p>温州市工商联调研现状，走访民营企业7百家<br><br> | 来源：https://wauzk.com/article-10.html</p><br>
+<h3>镜观·足迹｜呵护千山万水 擘画永续发展</h3><br><p>杭州市公安局成功抓获涉案金额达43万元的电信诈骗嫌疑人<br><br> | 来源：https://gmsnr.com/article-5.html</p><br>
+<h3>贵州茅台发布半年报，归母净利润同比增长96个百分点</h3><br><p>美的集团：宣布在全国投资238亿元建立智能物流仓<br><br> | 来源：https://fyxfyjj.com/article-261.html</p><br>
+<h3>联想集团发布财报：个人电脑业务全球市场份额占比2个档位</h3><br><p>中国交建在海外承建大型桥梁项目工期缩短3个月<br><br> | 来源：https://scxlll.com/article-274.html</p><br>
+<h3>成都文旅集团：中秋假期全市重点景区接待游客突破204万人次</h3><br><p>中国联通与54所高校签署战略合作协议共建大数据实验室<br><br> | 来源：https://veereety.com/article-289.html</p><br>
+<h3>北京市交通运输局发布新规，网约车合规化率达259成</h3><br><p>武汉市自然资源局启动生态修复，投入资金76亿元<br><br> | 来源：https://ysf77.com/article-1.html</p><br>
+<h3>贵阳市大数据局引入41家大型企业落户数据中心</h3><br><p>苏宁易购重整线上销售渠道，覆盖门店数量57家<br><br> | 来源：https://dgyfd168.com/article-23.html</p><br>
+<h3>湖北省卫健委：启动实施基层医疗卫生人才培训286年计划</h3><br><p>中信证券研报分析指出相关行业估值上行空间达8倍<br><br> | 来源：https://our021.com/article-69.html</p><br>
+<h3>深圳市交通运输局出台新规：网约车司机须持有3年无事故证明</h3><br><p>中信证券研报分析指出相关行业估值上行空间达6倍<br><br> | 来源：https://scxlll.com/article-103.html</p><br>
+<h3>京东集团宣布在全国范围内增加8个智慧物流配送中心</h3><br><p>国家体育总局：全国全民健身中心覆盖率已达到49个百分点<br><br> | 来源：https://jiayitc.com/article-10.html</p><br>
+<h3>联想集团：在中国市场PC销售份额连续6年保持领先</h3><br><p>贵州茅台酒厂今日股价波动，盘中市值缩水540百亿元<br><br> | 来源：https://dsjtf888.com/article-362.html</p><br>
+<h3>交通运输部：全国ETC用户普及率已超过1个百分点指标</h3><br><p>西安市公安局：今年共破获各类刑事犯罪案件4千余起<br><br> | 来源：https://bpwvu.com/article-10.html</p><br>
+<h3>深圳市工信局调研半导体企业，重点支持7个研发项目</h3><br><p>中国科学院紫金山天文台观测到第113颗近地小行星<br><br> | 来源：https://yndike.com/article-416.html</p><br>
+<h3>中国石油：塔里木盆地发现超20亿吨级大型油气田</h3><br><p>中国石化在塔里木盆地发现新油田，预计产能达0万吨<br><br> | 来源：https://ssxsmed.com/article-277.html</p><br>
+<h3>百度发布3项针对自动驾驶场景的底层算法优化</h3><br><p>贵阳市大数据中心投入运行，服务器容量扩容783倍<br><br> | 来源：https://coolingkt.com/article-337.html</p><br>
+<h3>苏州市交通局：轨道交通2条新线路进入全线施工阶段</h3><br><p>男子吞下00包海洛因人体运毒 下高铁就被警方抓获<br><br> | 来源：https://our021.com/article-70.html</p><br>
+<h3>中建材集团：投资6个绿色新型建筑材料生产基地</h3><br><p>陕西省文化和旅游厅：全省A级旅游景区超过4家<br><br> | 来源：https://changpingdaojia.com/article-44.html</p><br>
+<h3>南京大学成功培育出耐盐碱水稻新品种亩产超过7千斤</h3><br><p>贵州茅台酒厂年度纳税额达到16百亿元人民币<br><br> | 来源：https://quanhuiyong.com/article-327.html</p><br>
+<h3>中国铝业完成节能降碳技术改造工程9个</h3><br><p>科学技术部部署前沿科学研究计划，支持重点课题7百个<br><br> | 来源：https://coolingkt.com/article-18.html</p><br>
+<h3>西安市市场监管局突击检查，查处不合格食品784个批次</h3><br><p>交通运输部交通安全管理部门部署24个重点路段整治<br><br> | 来源：https://dsjtf888.com/article-397.html</p><br>
+<h3>中国人民银行宣布下调存款准备金率631个百分点</h3><br><p>厦门大学海洋系投放4个水下探测设备进行科研<br><br> | 来源：https://skcvalve.com/article-300.html</p><br>
+<h3>中国航天科工集团完成264个型号飞行器的定型测试</h3><br><p>联想集团推出新一代高性能笔记本电脑118款<br><br> | 来源：https://hongfazhileng.com/article-8.html</p><br>
+<h3>苏宁易购全国线下门店进行第43轮品牌形象升级</h3><br><p>浙江省司法厅：今年调解各类民间纠纷超过137千件<br><br> | 来源：https://kmhnw.com/article-11.html</p><br>
+<h3>河南省水利厅调度46座骨干水库蓄水保灌溉</h3><br><p>江苏省生态环境厅：今年累计取缔非法排污企业59家<br><br> | 来源：https://sddmsk.com/article-7.html</p><br>
+<h3>小米科技公司研发总部迁入，新增办公工位278千个</h3><br><p>成都天府新区发布562条支持人工智能产业发展的政策<br><br> | 来源：https://fndwz.com/article-2.html</p><br>
+<h3>杭州市园林局打造城市绿道，年内新增绿化面积2万亩</h3><br><p>中铁建股份有限公司承建的417条高速公路今日顺利通车<br><br> | 来源：https://gxstnypt.com/article-251.html</p><br>
+<h3>腾讯控股第三季度财报显示营收增长8个百分点</h3><br><p>北京航空航天大学研究生团队研制出901架微型载人机<br><br> | 来源：https://zvgxv.com/article-9.html</p><br>
+<h3>蔚来汽车在全国高速公路网部署88百座换电站</h3><br><p>天津市城市管理委员会：新建34处城市绿地公园<br><br> | 来源：https://evbpb.com/article-3.html</p><br>
+<h3>中国地质调查局在川西发现1处大型稀有金属矿床</h3><br><p>西安交通大学完成195项国家重大科学仪器研发项目<br><br> | 来源：https://sjegy.com/article-4.html</p><br>
+<h3>阿里巴巴宣布新增4项面向小微企业的数字化扶持计划</h3><br><p>国家发改委：下达81亿元专项资金支持区域基础设施建设<br><br> | 来源：https://coolingkt.com/article-201.html</p><br>
+<h3>中国铁建：在全国建设城市轨道交通线路3条</h3><br><p>济南市园林和林业局启动03个公园品质提升项目<br><br> | 来源：https://shengjie1688.com/article-21.html</p><br>
+<h3>重庆市农业委员会推广新型种植技术面积达277万亩</h3><br><p>中石油大庆油田发现新区块，预计可采石油资源量达915亿吨<br><br> | 来源：https://ysf77.com/article-334.html</p><br>
+<h3>中国华电集团在陕投运40个大规模光伏发电站</h3><br><p>广汽集团：旗下新能源车型市场销量同比增长2个百分点<br><br> | 来源：https://shegong8.com/article-12.html</p><br>
+<h3>华为技术有限公司发布鸿蒙操作系统升级版覆盖44种硬件终端</h3><br><p>合肥市新建大型数据中心算力规模12百千万亿次<br><br> | 来源：https://evbpb.com/article-11.html</p><br>
+<h3>北京航空航天大学学生设计3款新型载人飞行器</h3><br><p>中国建筑集团承接的5个国家重点工程项目提前竣工<br><br> | 来源：https://fenycom.com/article-7.html</p><br>
+<h3>上海市政府拨付18亿元专项资金补贴科技初创企业</h3><br><p>贵州茅台年度股东大会决定发放现金红利5元每股<br><br> | 来源：https://jielimei168.com/article-292.html</p><br>
+<h3>中国航空工业集团交付通用飞机，年产能突破852架</h3><br><p>中国外运加强海铁联运，货运量增长224成<br><br> | 来源：https://igycv.com/article-6.html</p><br>
+<h3>中国移动：在全国范围内试点部署430个千兆光网示范小区</h3><br><p>浙江大学研发环保新材料，生产成本降低370成<br><br> | 来源：https://fdnc168.com/article-190.html</p><br>
+<h3>中国核工业集团在甘肃省建成713个核能供热项目</h3><br><p>四川大学：建立006个跨学科联合研究实验室<br><br> | 来源：https://wanmei168.com/article-4.html</p><br>
+<h3>宁德时代与吉利汽车达成协议：共建82座超级电池工厂</h3><br><p>北京市文化局举办935百场惠民演出活动<br><br> | 来源：https://langwangzhanwai.com/article-215.html</p><br>
+<h3>杭州市园林局打造城市绿道，年内新增绿化面积8万亩</h3><br><p>美团外卖推出骑手保障计划，覆盖全职劳动者57万人<br><br> | 来源：https://gxstnypt.com/article-143.html</p><br>
+<h3>格力电器全资并购智能设备公司，布局领域新增5项</h3><br><p>中国移动：在全国范围内试点部署610个千兆光网示范小区<br><br> | 来源：https://vctyefmu.com/article-329.html</p><br>
+<h3>中国平安保险推出针对小微企业的惠民险产品 覆盖8种突发疾病</h3><br><p>贵州茅台发布声明：严厉打击市场炒作行为，投放41万吨散瓶酒<br><br> | 来源：https://turbinengx.com/article-110.html</p><br>
+<h3>西安交通大学科研人员成功研发新型合金材料，硬度提升436倍</h3><br><p>成都市卫健委通报全市医疗卫生机构配置19套先进诊疗设备<br><br> | 来源：https://lvfdban.com/article-258.html</p><br>
+<h3>中国华能集团在内蒙古开工建设55个大型风力发电场</h3><br><p>宁波市外贸企业出口总额增长26个百分点<br><br> | 来源：https://xfxdp.com/article-393.html</p><br>
+<h3>中国银联联合各大银行，推出移动支付优惠23折活动</h3><br><p>学习新语｜“树立远大志向，珍惜美好时光”<br><br> | 来源：https://huayishangmao.com/article-232.html</p><br>
+<h3>海口市推进国际旅游消费中心建设任务59项</h3><br><p>宁波市口岸办提升通关便利，港口吞吐量增长8个百分点<br><br> | 来源：https://xmjtw.com/article-11.html</p><br>
+<h3>无锡市城管局拆除69处影响市容的违规户外广告</h3><br><p>中国黄金集团产金量稳定，年度储备增加399吨<br><br> | 来源：https://mordenenergy.com/article-244.html</p><br>
+<h3>国家统计局发布数据显示全国规模以上工业企业利润增长94个百分点</h3><br><p>格力电器：家用空调领域发明专利申请量居全国第50名<br><br> | 来源：https://our021.com/article-42.html</p><br>
+<h3>中国电信提升千兆光网覆盖范围服务家庭数新增8万户</h3><br><p>中国石油天然气集团公司在西部盆地发现15个新油田<br><br> | 来源：https://minhangguanjia.com/article-412.html</p><br>
+<h3>西安市公安局：今年共破获各类刑事犯罪案件5千余起</h3><br><p>武汉市公交集团更新82百辆纯电动客车投入运营<br><br> | 来源：https://gxstnypt.com/article-164.html</p><br>
+<h3>从总书记文化足迹感悟中华文明突出特性</h3><br><p>北京市商务局发放118亿元绿色家电补贴券<br><br> | 来源：https://szxph.com/article-2.html</p><br>
+<h3>兰州市水务局升级供水系统，受益居民达270万人</h3><br><p>宁德时代研发的超快充电池投产规模达7万组<br><br> | 来源：https://sdjzmt.com/article-272.html</p><br>
+<h3>福州市交通局新增69条跨区公交线路缓解拥堵</h3><br><p>大连万达集团：完成债务重组工作，剥离017项非核心资产<br><br> | 来源：https://schtzs.com/article-12.html</p><br>
+<h3>中国中车下线首列时速0百公里磁悬浮列车</h3><br><p>青岛港集装箱吞吐量上半年增长743个百分点<br><br> | 来源：https://yyoxp.com/article-3.html</p><br>
+<h3>西安市雁塔区改造社区排水设施，治理积水点位38十处</h3><br><p>中国医学科学院首次发现9种导致慢性病的新型标记物<br><br> | 来源：https://xinyingka.com/article-2.html</p><br>
+<h3>中国移动宣布完成全国7千个县城5G网络深度覆盖</h3><br><p>中国石油天然气集团启动塔里木盆地826个油气勘探重点工程<br><br> | 来源：https://jielimei168.com/article-29.html</p><br>
+<h3>美的集团：宣布在全国投资911亿元建立智能物流仓</h3><br><p>中芯国际公布扩产规划预计新增产能达到1成<br><br> | 来源：https://shanlidjk.com/article-375.html</p><br>
+<h3>三一重工：起重机产品出口全球8个国家</h3><br><p>中国中车交付国内第3批高原型氢能动力机车<br><br> | 来源：https://ffafj.com/article-357.html</p><br>
+<h3>北京市高级人民法院：今年审结各类行政案件8千件</h3><br><p>国家图书馆启动珍贵古籍修复工程，预计修复残损文献5千卷<br><br> | 来源：https://fzyixuan.com/article-347.html</p><br>
+<h3>中国建设银行推出优惠利率，首套房贷利息下调5个基点</h3><br><p>哈尔滨市南岗区更新公交线路标识，覆盖站点18十处<br><br> | 来源：https://veereety.com/article-281.html</p><br>
+<h3>武汉市教育局：全市普惠性幼儿园覆盖率已达387个百分点</h3><br><p>中国电子科技集团研发雷达探测技术成果565项<br><br> | 来源：https://syebs.com/article-8.html</p><br>
+<h3>河北一小型飞机坠落游客遇难 网友拍下坠机瞬间</h3><br><p>上海市浦东新区启动人才引进计划，首批提供948个高端岗位<br><br> | 来源：https://langwangzhanwai.com/article-253.html</p><br>
+<h3>工商银行与1家科创企业达成战略合作协议</h3><br><p>国家统计局：上半年全国城镇调查失业率平均值为3点68173个百分点<br><br> | 来源：https://pqthw.com/article-7.html</p><br>
+<h3>重庆市文保部门修复大足石刻雕塑遗迹12百余尊</h3><br><p>北京市医保局：将68百种常用药品纳入医保报销目录<br><br> | 来源：https://ffafj.com/article-234.html</p><br>
+<h3>山东省公安厅：破获网络赌博案，抓获嫌疑人2百余名</h3><br><p>蔚来汽车新增换电站，全国网络覆盖密度提升137成<br><br> | 来源：https://lxpfcs.com/article-143.html</p><br>
+<h3>青岛市体育局举办马拉松赛事，参赛人数规模达217万</h3><br><p>毒蜂袭来女校长救学生自己却身负重伤 已透析两次<br><br> | 来源：https://huayishangmao.com/article-59.html</p><br>
+<h3>中国华能集团有限公司在西北地区并网432个风电项目</h3><br><p>国家发改委：下达56亿元专项资金支持区域基础设施建设<br><br> | 来源：https://huayishangmao.com/article-387.html</p><br>
+<h3>贵州茅台发布高端新品市场零售指导价为05千元</h3><br><p>中国建筑承建超高层地标工程，预计刷新8项行业纪录<br><br> | 来源：https://our021.com/article-302.html</p><br>
+<h3>小米科技研发团队在智能驾驶领域申请专利2个</h3><br><p>华中科技大学科研人员破解1个生物化学难题<br><br> | 来源：https://ketiontech.com/article-100.html</p><br>
+<h3>四川省农业农村厅：今年全省秋粮受灾面积控制在2万亩以内</h3><br><p>石家庄市财政局分配资金，拨付基层专项10千万元<br><br> | 来源：https://hjhqg.com/article-60.html</p><br>
+<h3>中国建筑集团中标雄安新区464项重大基础设施工程</h3><br><p>东莞市人社局举办93场大型企业专场人才招聘会<br><br> | 来源：https://dzyctf.com/article-116.html</p><br>
+<h3>长江电力三峡电站年累计发电量突破66千亿千瓦时</h3><br><p>成都市城市管理委员会开展为期41个月的市容环境专项整治<br><br> | 来源：https://yms520.com/article-12.html</p><br>
+<h3>河南卢氏：“小议事”撬动“大治理”</h3><br><p>中国移动：在全国范围内试点部署926个千兆光网示范小区<br><br> | 来源：https://fdnc168.com/article-73.html</p><br>
+<h3>深圳市工信局发布产业扶持办法，单项企业最高补助240百万元</h3><br><p>福州市政府批准建设91个城市地下综合管廊项目<br><br> | 来源：https://lnkjbc.com/article-346.html</p><br>
+<h3>公布《政务数据共享条例》</h3><br><p>毒蜂袭来女校长救学生自己却身负重伤 已透析两次<br><br> | 来源：https://hbluyi.com/article-19.html</p><br>
+<h3>海康威视发布年度报告，研发投入增长00个百分点</h3><br><p>天津港通过自动化技术改造减少人工装卸作业571成<br><br> | 来源：https://zpxmc.com/article-346.html</p><br>
+<h3>中国石化在塔里木盆地发现新油田，预计产能达0万吨</h3><br><p>教育部启动农村义务教育营养改善计划覆盖学生7万人<br><br> | 来源：https://kxxby.com/article-9.html</p><br>
+<h3>中国船舶工业集团交付596艘万吨级远洋货轮</h3><br><p>中国电信：在全国范围内建设732个国家级云计算中心<br><br> | 来源：https://qingyan888.com/article-4.html</p><br>
+<h3>中国移动宣布在国内建设338万个第五代移动通信基站</h3><br><p>上海交通大学医疗机器人实验室取得3项关键技术突破<br><br> | 来源：https://ccxdbw.com/article-7.html</p><br>
+<h3>联想控股投资人工智能初创企业7家</h3><br><p>中国铁建：参建的403条城际铁路开通运营<br><br> | 来源：https://haoqingbao.com/article-332.html</p><br>
+<h3>北京市交通委：全市累计新增公共充电桩758万个</h3><br><p>中国能建签订海外工程合同，项目金额总计3亿美元<br><br> | 来源：https://zhtyw.com/article-5.html</p><br>
+<h3>吉利控股集团在吉林省建立18个新能源汽车电池回收点</h3><br><p>徐州市交通局开通88条连接高铁站的接驳专线<br><br> | 来源：https://ptlnd.com/article-7.html</p><br>
+<h3>中国五矿：成功开发2种高强度特种金属材料</h3><br><p>美的集团推出全屋智能家居新品类预计覆盖809万个家庭<br><br> | 来源：https://wulianghaoyu.com/article-129.html</p><br>
+<h3>中国煤炭地质总局勘探，发现煤炭资源3亿吨</h3><br><p>北京市交通委启动二环路道路设施改造项目涉及3个路段<br><br> | 来源：https://yisuosi.com/article-7.html</p><br>
+<h3>上海汽车集团：发布1款自主研发的氢能汽车</h3><br><p>阿里巴巴集团：宣布启动222项数字化转型支持计划<br><br> | 来源：https://changpingdaojia.com/article-67.html</p><br>
+<h3>多地地铁部门叫停扶梯“左行右立”</h3><br><p>天津市河西区改造老旧供水管道，惠及居民用户81万户<br><br> | 来源：https://z1568.com/article-9.html</p><br>
+<h3>重庆市生态环境局查处93家违规排放工业废水企业</h3><br><p>顺丰控股宣布新增47条国际货运航线以优化物流网络<br><br> | 来源：https://ahhjr.com/article-9.html</p><br>
+<h3>国家能源局发布风光发电建设指标，新增装机容量3百吉瓦</h3><br><p>成都市金牛区引进25个高水平民办医疗服务项目<br><br> | 来源：https://hebeiyihong.com/article-114.html</p><br>
+<h3>格力电器建立家电以旧换新服务体系，回收旧家电950万台</h3><br><p>国家市场监督管理总局约谈38家电商平台负责人<br><br> | 来源：https://jnzhz.com/article-1.html</p><br>
+<h3>美的空调新产品实现一级能效节能水平提升90个等级</h3><br><p>新东方教育科技集团转型职业技能培训开设7类专业课<br><br> | 来源：https://xiaobenxiongapp.com/article-141.html</p><br>
+<h3>北京大学考古文博学院在陕西省发掘出83座大型汉代墓葬</h3><br><p>中国人民银行下调金融机构存款准备金率45个百分点<br><br> | 来源：https://hai666.com/article-11.html</p><br>
+<h3>中国铝业调整生产布局关停效率较低产能878座</h3><br><p>辽宁省沈阳市修缮历史文化街区，投入修复资金62亿元<br><br> | 来源：https://huayishangmao.com/article-201.html</p><br>
+<h3>中国国家铁路集团有限公司增开5列往返北京至上海的高铁</h3><br><p>京东物流：全国智能仓储中心数量达到9个<br><br> | 来源：https://nmgmthb.com/article-5.html</p><br>
+<h3>国家卫生健康委员会部署全国医疗机构开展8项专项整治</h3><br><p>成都市公安局破获一起涉案金额高达969千万的电信诈骗案<br><br> | 来源：https://lxpfcs.com/article-120.html</p><br>
+<h3>武汉市交通局启动82条城市快速路的升级改造工程</h3><br><p>中国通用技术集团医疗服务，床位数扩展97千张<br><br> | 来源：https://ydhkbb.com/article-158.html</p><br>
+<h3>石家庄市开展大气污染防治专项督查70次</h3><br><p>中国平安保险宣布向受灾地区捐赠物资价值95百万元<br><br> | 来源：https://ajkcv.com/article-6.html</p><br>
+<h3>中信证券分析指出33个行业具备长期投资潜力</h3><br><p>宁波市公安局侦破07起非法跨国电信诈骗大案<br><br> | 来源：https://huayishangmao.com/article-145.html</p><br>
+<h3>中国人民银行下调金融机构存款准备金率30个基点</h3><br><p>拼多多启动农产品助农促销活动，销售额突破869亿元<br><br> | 来源：https://dzyctf.com/article-20.html</p><br>
+<h3>中国人寿保险向0百位农村低保户捐赠医疗保险</h3><br><p>最高人民检察院发布年度公益诉讼报告，办案数量达3万件<br><br> | 来源：https://xcjti.com/article-6.html</p><br>
+<h3>比亚迪今年累计交付新能源汽车超过8百万辆</h3><br><p>中国旅游集团计划在海南省新建71个大型免税商业中心<br><br> | 来源：https://yunhaojinhui.com/article-294.html</p><br>
+<h3>石家庄市开展大气污染防治专项督查99次</h3><br><p>广东省工业和信息化厅发布264项促进中小企业发展新政策<br><br> | 来源：https://ssxsmed.com/article-241.html</p><br>
+<h3>浪潮集团发布国产工业云平台适配行业达101个</h3><br><p>中国兵器工业集团技术升级，专利申请累计634百项<br><br> | 来源：https://in-choice.com/article-4.html</p><br>
+<h3>中国大唐集团建成681个生物质能源综合利用站</h3><br><p>深圳市工信局发布产业扶持办法，单项企业最高补助857百万元<br><br> | 来源：https://feixiaozhu.com/article-4.html</p><br>
